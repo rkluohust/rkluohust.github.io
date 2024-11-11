@@ -46,7 +46,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 - **Ruikun Luo**, Qiang He, Feifei Chen, Song Wu, Hai Jin and Yun Yang, Ripple: Enabling Decentralized Data Deduplication at the Edge, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
 
-- Qiang He, Guobiao Zhang, Jiawei Wang, **Ruikun Luo**, Xiaohai Dai, Yuchong Hu, Feifei Chen, Hai Jin, and Yun Yang, EdgeHydra: Fault-Tolerant Edge Data Distribution based on Erasure Coding, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), Minor.
+- Qiang He, Guobiao Zhang, Jiawei Wang, **Ruikun Luo**, Xiaohai Dai, Yuchong Hu, Feifei Chen, Hai Jin, and Yun Yang, EdgeHydra: Fault-Tolerant Edge Data Distribution based on Erasure Coding, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
 
 - Xiaoyu Xia, Feifei Chen, Qiang He, **Ruikun Luo**, Bowen Liu, Caslon Chua, Rajkumar Buyya, and Yun Yang, EdgeShield: Enabling Collaborative DDoS Mitigation at the Edge, IEEE Transactions on Mobile Computing (TMC, CORE A*, CCF A).
 
