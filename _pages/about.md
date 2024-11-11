@@ -38,7 +38,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 (Corresponding authors=*)
 
 ## 2024
-%---
+
 - **Ruikun Luo**, Zujia Zhang, Qiang He, Mengxi Xu, Feifei Chen, Xiaohai Dai, Song Wu, and Hai Jin, Cost-Effective Edge Data Caching with Failure Tolerance and Popularity Awareness, IEEE Transactions on Mobile Computing (TMC, CORE A*, CCF A), Major.
 
 - **Ruikun Luo**, Qiang He, Mengxi Xu, Feifei Chen, Song Wu, and Hai Jin, Edge Data Deduplication under Uncertainties: A Robust Optimization Approach, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
@@ -52,7 +52,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - Xiaoyu Xia, Feifei Chen, Qiang He, **Ruikun Luo**, Bowen Liu, Caslon Chua, Rajkumar Buyya, and Yun Yang, EdgeShield: Enabling Collaborative DDoS Mitigation at the Edge, IEEE Transactions on Mobile Computing (TMC, CORE A*, CCF A).
 
 ## 2023
-%---
+
 - **Ruikun Luo**, Ruikun Luo, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, Enabling Balanced Data Deduplication in Mobile Edge Computing, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), DOI: 10.1109/TPDS.2023.3247061.
 
 ## 2022
@@ -62,7 +62,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - Hai Jin, **Ruikun Luo**, Qiang He, Song Wu, Zilai Zeng, and Xiaoyu Xia, Cost-Effective Data Placement in Edge Storage Systems with Erasure Code, IEEE Transactions on Services Computing (TSC, CORE A*, CCF A), DOI: 10.1109/TSC.2022.3152849.
 
 ## 2021
-%---
+
 - Hai Jin, Cong Liu, Haikun Liu, **Ruikun Luo**, Jiahong Xu, Fubing Mao, and Xiaofei Liao, ReHy: A ReRAM-based Digital/Analog Hybrid PIM Architecture for Accelerating CNN Training, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), DOI: 10.1109/TPDS.2021.3138087.
 
 - **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, Zilai Zeng, and Xiaoyu Xia, Graph-based Data Deduplication in Mobile Edge Computing Environment, 19th International Conference on Service-Oriented Computing (ICSOC2021, CORE A, CCF B), Dubai, UAE, 2021. 
