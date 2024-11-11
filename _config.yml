@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruikun Luo (罗瑞坤)"
-description              : ""以梦为马，不负韶华""
+description              : "Be your best!"
 repository               : "rkluohust/ruikun_luo.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ruikun Luo (罗瑞坤)"
-  avatar           : "images/ruikun.png"
+  avatar           : "images/ruikun_luo.png"
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         : 
