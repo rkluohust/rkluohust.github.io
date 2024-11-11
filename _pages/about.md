@@ -51,9 +51,50 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 - Xiaoyu Xia, Feifei Chen, Qiang He, **Ruikun Luo**, Bowen Liu, Caslon Chua, Rajkumar Buyya, and Yun Yang, EdgeShield: Enabling Collaborative DDoS Mitigation at the Edge, IEEE Transactions on Mobile Computing (TMC, CORE A*, CCF A).
 
+## 2023
+---
+- **Ruikun Luo**, Ruikun Luo, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, Enabling Balanced Data Deduplication in Mobile Edge Computing, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), DOI: 10.1109/TPDS.2023.3247061.
 
+## 2022
+---
+- **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, Cost-Effective Edge Server Network Design in Mobile Edge Computing Environment, IEEE Transactions on Sustainable Computing (TSUSC, CCF C), DOI: 10.1109/TSUSC.2022.3178661.
+
+- Hai Jin, **Ruikun Luo**, Qiang He, Song Wu, Zilai Zeng, and Xiaoyu Xia, Cost-Effective Data Placement in Edge Storage Systems with Erasure Code, IEEE Transactions on Services Computing (TSC, CORE A*, CCF A), DOI: 10.1109/TSC.2022.3152849.
+
+## 2021
+---
+- Hai Jin, Cong Liu, Haikun Liu, **Ruikun Luo**, Jiahong Xu, Fubing Mao, and Xiaofei Liao, ReHy: A ReRAM-based Digital/Analog Hybrid PIM Architecture for Accelerating CNN Training, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), DOI: 10.1109/TPDS.2021.3138087.
+
+- **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, Zilai Zeng, and Xiaoyu Xia, Graph-based Data Deduplication in Mobile Edge Computing Environment, 19th International Conference on Service-Oriented Computing (ICSOC2021, CORE A, CCF B), Dubai, UAE, 2021. 
 
 <span class='anchor' id='-ryjx'></span>
+
+# Regular Reviewer
+
+- EAI CollaborateCom 2024
+
+- IEEE Transactions on Services Computing
+
+- IEEE Transactions on Communications
+
+- IEEE Transactions on Automation Science and Engineering
+
+- IEEE Transactions on Consumer Electronics 
+
+- IEEE Internet of the Things Journal
+
+- Concurrency and Computation Practice and Experience
+
+- Computing
+- 
+# Program Committee Member
+- The 2024 International Conference on High Performance Computing and Communications (HPCC) , CCF C
+
+- The 2024 International Conference on Mobility, Sensing and Networking (MSN) , CCF C
+
+- The 2023 International Conference on Green, Pervasive, and Cloud Computing (GPC)
+
+- The 2022 IEEE International Conference on Data, Information, Knowledge and Wisdom (DIKW)
 
 # 🏅 Awards
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
@@ -61,6 +102,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 
 <span class='anchor' id='-xshy'></span>
+
 
 
 <span class='anchor' id='-gzsx'></span>
