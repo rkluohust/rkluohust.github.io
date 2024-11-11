@@ -29,7 +29,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 # 🎓 Education
 - *2018.09 - 2023.6*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Huazhong University of Science and Technology, Computer Architecture,  Ph. D. without entrance examination 
-- *2014.09 - 2018.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="20pt"></a> Dalian Maritime University, Computer Scicence and Technology, Bachelor
+- *2014.09 - 2018.06*, <a href="https://www.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="20pt"></a> Dalian Maritime University, Computer Scicence and Technology, Bachelor
  
 <span class='anchor' id='-lwzl'></span>
 
