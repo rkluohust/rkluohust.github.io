@@ -23,8 +23,8 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 <font color="red">(I am looking for highly motivated undergraduate students with a strong passion for working with me. If interested, please drop me a message by email.)</font>
   
 # News
--<font color="red">[NEW!]<\font> Mengxi has received the highest undergraduate award—the National Scholarship! Congrats to Mengxi!
--<font color="red">[NEW!]<\font> Two of our papers have been accepted by IEEE TPDS!
+- <font color="red">[NEW!]<\font> Mengxi has received the highest undergraduate award—the National Scholarship! Congrats to Mengxi!
+- <font color="red">[NEW!]<\font> Two of our papers have been accepted by IEEE TPDS!
 
 <span class='anchor' id='-xl'></span>
 
