@@ -56,7 +56,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - **Ruikun Luo**, Ruikun Luo, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, Enabling Balanced Data Deduplication in Mobile Edge Computing, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), DOI: 10.1109/TPDS.2023.3247061.
 
 ## 2022
-%---
+
 - **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, Cost-Effective Edge Server Network Design in Mobile Edge Computing Environment, IEEE Transactions on Sustainable Computing (TSUSC, CCF C), DOI: 10.1109/TSUSC.2022.3178661.
 
 - Hai Jin, **Ruikun Luo**, Qiang He, Song Wu, Zilai Zeng, and Xiaoyu Xia, Cost-Effective Data Placement in Edge Storage Systems with Erasure Code, IEEE Transactions on Services Computing (TSC, CORE A*, CCF A), DOI: 10.1109/TSC.2022.3152849.
@@ -96,15 +96,12 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 - The 2022 IEEE International Conference on Data, Information, Knowledge and Wisdom (DIKW)
 
-# 🏅 Awards
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
+<!--# 🏅 Awards
+- *2018.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
-
+-->
 <span class='anchor' id='-xshy'></span>
 
-
-
-<span class='anchor' id='-gzsx'></span>
 
 
