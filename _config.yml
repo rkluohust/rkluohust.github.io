@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "罗瑞坤"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
+  name             : "Ruikun Luo (罗瑞坤)"
+  avatar           : "images/ruikun.png"
+  bio              : "Huazhong University of Science and Technology"
+  location         : "Wuhan, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ULjIKnUAAAAJ"
