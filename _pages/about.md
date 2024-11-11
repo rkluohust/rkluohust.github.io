@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a postdoc at the College of Computer Science and Technology at Huazhong University of Science and Technology (HUST), Wuhan, China. Before that, I got my BS. degree from Dalian Maritime University in Jun. 2018. I got my Ph.D degree from HUST in Jun. 2019, under the supervision of Prof. Hai Jin. My research interests mainly focus on edge storage and optimization algorithms. Nowadays, I work towards the synergy between artificial intelligence and edge computing, especially large language models.
-# <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+% <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 <font color="red">(I am looking for highly motivated undergraduate students with a strong passion for working with me. If interested, please drop me a message by email.)</font>
   
