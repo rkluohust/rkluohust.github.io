@@ -40,11 +40,11 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 - **Ruikun Luo**, Zujia Zhang, Qiang He, Mengxi Xu, Feifei Chen, Xiaohai Dai, Song Wu, and Hai Jin, Cost-Effective Edge Data Caching with Failure Tolerance and Popularity Awareness, IEEE Transactions on Mobile Computing (TMC, CORE A*, CCF A), Major.
 
-- **Ruikun Luo**, Qiang He, Mengxi Xu, Feifei Chen, Song Wu, and Hai Jin, Edge Data Deduplication under Uncertainties: A Robust Optimization Approach, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
-
 - **Ruikun Luo**, Jiadong Zhao, Qiang He, Feifei Chen, Song Wu, Hai Jin and Yun Yang, Popularity-aware Data Placement in Erasure Coding-based Edge Storage Systems, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), Submitted.
 
-- **Ruikun Luo**, Qiang He, Feifei Chen, Song Wu, Hai Jin and Yun Yang, Ripple: Enabling Decentralized Data Deduplication at the Edge, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
+- **Ruikun Luo**, Qiang He, Mengxi Xu, Feifei Chen, Song Wu, and Hai Jin, Edge Data Deduplication under Uncertainties: A Robust Optimization Approach, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
+
+- **Ruikun Luo**, Qiang He, Feifei Chen, Song Wu, Hai Jin, and Yun Yang, Ripple: Enabling Decentralized Data Deduplication at the Edge, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
 
 - Qiang He, Guobiao Zhang, Jiawei Wang, **Ruikun Luo**, Xiaohai Dai, Yuchong Hu, Feifei Chen, Hai Jin, and Yun Yang, EdgeHydra: Fault-Tolerant Edge Data Distribution based on Erasure Coding, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
 
