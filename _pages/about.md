@@ -73,6 +73,8 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 # Regular Reviewer
 
+- ACM The Web Conference (WWW) 2025
+  
 - EAI CollaborateCom 2024
 
 - IEEE Transactions on Services Computing
@@ -86,6 +88,8 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - IEEE Internet of the Things Journal
 
 - Concurrency and Computation Practice and Experience
+
+- IEEE Open Journal of the Computer Society
 
 - Computing
  
