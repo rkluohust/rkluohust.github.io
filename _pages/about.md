@@ -40,7 +40,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 ## 2025
 
-- ShunDong Yang, Jing Yang, XiaowenJiang, Yuan Gao, Laurence Tianruo Yang, **Ruikun Luo**, Jieming Yang, Towards Multimodal Inductive Learning: Adaptively Embedding MMKG via Prototypes, ACM The Web Conference (WWW).
+- ShunDong Yang, Jing Yang, XiaowenJiang, Yuan Gao, Laurence Tianruo Yang, **Ruikun Luo**, Jieming Yang, Towards Multimodal Inductive Learning: Adaptively Embedding MMKG via Prototypes, ACM The Web Conference (WWW, CORE A*, CCF A).
   
 - **Ruikun Luo**, Zujia Zhang, Qiang He, Mengxi Xu, Feifei Chen, Xiaohai Dai, Song Wu, and Hai Jin, Cost-Effective Edge Data Caching with Failure Tolerance and Popularity Awareness, IEEE Transactions on Mobile Computing (TMC, CORE A*, CCF A).
   
