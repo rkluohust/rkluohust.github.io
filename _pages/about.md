@@ -22,6 +22,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 <font color="red">(I am looking for highly motivated undergraduate students with a strong passion for working with me. If interested, please drop me a message by email.)</font>
   
 # News
+- <font color="red">[NEW!]</font> [25-01-20] One of our papers has been accepted by WWW'2025! Congrats to Jing!
 - <font color="red">[NEW!]</font> [25-01-14] One of our papers has been accepted by IEEE TMC! Congrats to Zujia!
 - <font color="red">[NEW!]</font> [24-11-11] Mengxi has received the highest undergraduate award—the National Scholarship! Congrats to Mengxi!
 - <font color="red">[NEW!]</font> [24-10-30] Two of our papers have been accepted by IEEE TPDS! Congrats to Mengxi!
@@ -39,9 +40,9 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 ## 2025
 
-- **Ruikun Luo**, Zujia Zhang, Qiang He, Mengxi Xu, Feifei Chen, Xiaohai Dai, Song Wu, and Hai Jin, Cost-Effective Edge Data Caching with Failure Tolerance and Popularity Awareness, IEEE Transactions on Mobile Computing (TMC, CORE A*, CCF A).
-
 - ShunDong Yang, Jing Yang, XiaowenJiang, Yuan Gao, Laurence Tianruo Yang, **Ruikun Luo**, Jieming Yang, Towards Multimodal Inductive Learning: Adaptively Embedding MMKG via Prototypes, ACM The Web Conference (WWW).
+  
+- **Ruikun Luo**, Zujia Zhang, Qiang He, Mengxi Xu, Feifei Chen, Xiaohai Dai, Song Wu, and Hai Jin, Cost-Effective Edge Data Caching with Failure Tolerance and Popularity Awareness, IEEE Transactions on Mobile Computing (TMC, CORE A*, CCF A).
   
 ## 2024
 
