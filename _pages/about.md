@@ -55,7 +55,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 ## 2023
 
-- **Ruikun Luo**, Ruikun Luo, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, Enabling Balanced Data Deduplication in Mobile Edge Computing, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), DOI: 10.1109/TPDS.2023.3247061.
+- **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, Enabling Balanced Data Deduplication in Mobile Edge Computing, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), DOI: 10.1109/TPDS.2023.3247061.
 
 ## 2022
 
