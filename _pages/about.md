@@ -82,6 +82,8 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 - IEEE Transactions on Services Computing
 
+- Transactions on Dependable and Secure Computing
+
 - IEEE Transactions on Communications
 
 - IEEE Transactions on Automation Science and Engineering
