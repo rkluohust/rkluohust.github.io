@@ -80,6 +80,8 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
   
 - EAI CollaborateCom 2024
 
+- IEEE Transactions on Mobile Computing
+
 - IEEE Transactions on Services Computing
 
 - IEEE Transactions on Dependable and Secure Computing
@@ -90,7 +92,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 
 - IEEE Transactions on Consumer Electronics 
 
-- IEEE Internet of the Things Journal
+- IEEE Internet of Things Journal
 
 - Concurrency and Computation Practice and Experience
 
