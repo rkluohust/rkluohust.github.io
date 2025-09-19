@@ -101,7 +101,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - Computing
  
 # Program Committee Member
-- The 2024 International Conference on High Performance Computing and Communications (HPCC), CCF C
+- The 2024/2025 International Conference on High Performance Computing and Communications (HPCC), CCF C
 
 - The 2024 International Conference on Mobility, Sensing and Networking (MSN), CCF C
 
@@ -114,6 +114,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 -->
+
 
 
 
