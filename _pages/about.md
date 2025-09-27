@@ -22,10 +22,11 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 <font color="red">(I am looking for highly motivated undergraduate students with a strong passion for working with me. If interested, please drop me a message by email.)</font>
   
 # News
+- <font color="red">[NEW!]</font> [25-09-27] One of our papers has been accepted by IEEE TPDS! Congrats to Jiadong!
 - <font color="red">[NEW!]</font> [25-09-25] One of our papers has been accepted by IEEE TSC! Congrats to Zhongkai and Anqi!
 - <font color="red">[NEW!]</font> [25-09-19] One of our papers has been accepted by NeurIPS'2025! Congrats to Changwei!
 - <font color="red">[NEW!]</font> [25-01-20] One of our papers has been accepted by WWW'2025! Congrats to Jing!
-- <font color="red">[NEW!]</font> [25-01-14] One of our papers has been accepted by IEEE TMC! Congrats to Zujia!
+-  [25-01-14] One of our papers has been accepted by IEEE TMC! Congrats to Zujia!
 -  [24-11-11] Mengxi has received the highest undergraduate award—the National Scholarship! Congrats to Mengxi!
 -  [24-10-30] Two of our papers have been accepted by IEEE TPDS! Congrats to Mengxi!
 
@@ -41,7 +42,9 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 (Corresponding authors=*)
 
 ## 2025
-- **Ruikun Luo**, Zhongkai Liang, Anqi Nie, Qiang He, Feifei Chen, Wenjing Xiao, Jing Yang, Yuan Gao, and Yun Yang, _Online Caching Replacement in Erasure Coding-based Edge Storage System_, IEEE Transactions on Services Computing (TSC, CORE A*, CCF A 类).
+- **Ruikun Luo**, Jiadong Zhao, Qiang He, Feifei Chen, Song Wu, Hai Jin, and Yun Yang, _Popularity-aware Data Placement in Erasure Coding-based Edge Storage Systems_, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
+
+- **Ruikun Luo**, Zhongkai Liang, Anqi Nie, Qiang He, Feifei Chen, Wenjing Xiao, Jing Yang, Yuan Gao, and Yun Yang, _Online Caching Replacement in Erasure Coding-based Edge Storage System_, IEEE Transactions on Services Computing (TSC, CORE A*, CCF A).
 
 - **Ruikun Luo**, Changwei Gu, Qiang He, Feifei Chen, Song Wu, Hai Jin, Yun Yang, _Sim-LLM: Optimizing LLM Inference at the Edge through Inter-Task KV Reuse_, The Annual Conference on Neural Information Processing Systems (NeurIPS, CORE A*, CCF A).
 
@@ -117,6 +120,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 -->
+
 
 
 
