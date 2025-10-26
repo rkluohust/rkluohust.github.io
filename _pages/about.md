@@ -42,41 +42,41 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 (Corresponding authors=*)
 
 ## 2025
-- **Ruikun Luo**, Jiadong Zhao, Qiang He, Feifei Chen, Song Wu, Hai Jin, and Yun Yang, _Popularity-aware Data Placement in Erasure Coding-based Edge Storage Systems_, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
+- **Ruikun Luo**, Jiadong Zhao, Qiang He, Feifei Chen, Song Wu, Hai Jin, and Yun Yang, _Popularity-aware Data Placement in Erasure Coding-based Edge Storage Systems_, IEEE Transactions on Parallel and Distributed Systems (**TPDS**, CORE A*, CCF A).
 
-- **Ruikun Luo**, Zhongkai Liang, Anqi Nie, Qiang He, Feifei Chen, Wenjing Xiao, Jing Yang, Yuan Gao, and Yun Yang, _Online Caching Replacement in Erasure Coding-based Edge Storage System_, IEEE Transactions on Services Computing (TSC, CORE A*, CCF A).
+- **Ruikun Luo**, Zhongkai Liang, Anqi Nie, Qiang He, Feifei Chen, Wenjing Xiao, Jing Yang, Yuan Gao, and Yun Yang, _Online Caching Replacement in Erasure Coding-based Edge Storage System_, IEEE Transactions on Services Computing (**TSC**, CORE A*, CCF A).
 
-- **Ruikun Luo**, Changwei Gu, Qiang He, Feifei Chen, Song Wu, Hai Jin, Yun Yang, _Sim-LLM: Optimizing LLM Inference at the Edge through Inter-Task KV Reuse_, The Annual Conference on Neural Information Processing Systems (NeurIPS, CORE A*, CCF A).
+- **Ruikun Luo**, Changwei Gu, Qiang He, Feifei Chen, Song Wu, Hai Jin, Yun Yang, _Sim-LLM: Optimizing LLM Inference at the Edge through Inter-Task KV Reuse_, The Annual Conference on Neural Information Processing Systems (**NeurIPS**, CORE A*, CCF A).
 
-- ShunDong Yang, Jing Yang, XiaowenJiang, Yuan Gao, Laurence Tianruo Yang, **Ruikun Luo**, Jieming Yang, _Towards Multimodal Inductive Learning: Adaptively Embedding MMKG via Prototypes_, ACM The Web Conference (WWW, CORE A*, CCF A).
+- ShunDong Yang, Jing Yang, XiaowenJiang, Yuan Gao, Laurence Tianruo Yang, **Ruikun Luo**, Jieming Yang, _Towards Multimodal Inductive Learning: Adaptively Embedding MMKG via Prototypes_, ACM The Web Conference (**WWW**, CORE A*, CCF A).
   
-- **Ruikun Luo**, Zujia Zhang, Qiang He, Mengxi Xu, Feifei Chen, Xiaohai Dai, Song Wu, and Hai Jin, _Cost-Effective Edge Data Caching with Failure Tolerance and Popularity Awareness_, IEEE Transactions on Mobile Computing (TMC, CORE A*, CCF A).
+- **Ruikun Luo**, Zujia Zhang, Qiang He, Mengxi Xu, Feifei Chen, Xiaohai Dai, Song Wu, and Hai Jin, _Cost-Effective Edge Data Caching with Failure Tolerance and Popularity Awareness_, IEEE Transactions on Mobile Computing (**TMC**, CORE A*, CCF A).
   
 ## 2024
 
-- **Ruikun Luo**, Qiang He, Mengxi Xu, Feifei Chen, Song Wu, Jing Yang, Yuan Gao, and Hai Jin, _Edge Data Deduplication under Uncertainties: A Robust Optimization Approach_, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
+- **Ruikun Luo**, Qiang He, Mengxi Xu, Feifei Chen, Song Wu, Jing Yang, Yuan Gao, and Hai Jin, _Edge Data Deduplication under Uncertainties: A Robust Optimization Approach_, IEEE Transactions on Parallel and Distributed Systems (**TPDS**, CORE A*, CCF A).
 
-- **Ruikun Luo**, Qiang He, Feifei Chen, Song Wu, Hai Jin, and Yun Yang, _Ripple: Enabling Decentralized Data Deduplication at the Edge_, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
+- **Ruikun Luo**, Qiang He, Feifei Chen, Song Wu, Hai Jin, and Yun Yang, _Ripple: Enabling Decentralized Data Deduplication at the Edge_, IEEE Transactions on Parallel and Distributed Systems (**TPDS**, CORE A*, CCF A).
 
-- Qiang He, Guobiao Zhang, Jiawei Wang, **Ruikun Luo**, Xiaohai Dai, Yuchong Hu, Feifei Chen, Hai Jin, and Yun Yang, _EdgeHydra: Fault-Tolerant Edge Data Distribution based on Erasure Coding_, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A).
+- Qiang He, Guobiao Zhang, Jiawei Wang, **Ruikun Luo**, Xiaohai Dai, Yuchong Hu, Feifei Chen, Hai Jin, and Yun Yang, _EdgeHydra: Fault-Tolerant Edge Data Distribution based on Erasure Coding_, IEEE Transactions on Parallel and Distributed Systems (**TPDS**, CORE A*, CCF A).
 
-- Xiaoyu Xia, Feifei Chen, Qiang He, **Ruikun Luo**, Bowen Liu, Caslon Chua, Rajkumar Buyya, and Yun Yang, _EdgeShield: Enabling Collaborative DDoS Mitigation at the Edge_, IEEE Transactions on Mobile Computing (TMC, CORE A*, CCF A).
+- Xiaoyu Xia, Feifei Chen, Qiang He, **Ruikun Luo**, Bowen Liu, Caslon Chua, Rajkumar Buyya, and Yun Yang, _EdgeShield: Enabling Collaborative DDoS Mitigation at the Edge_, IEEE Transactions on Mobile Computing (**TMC**, CORE A*, CCF A).
 
 ## 2023
 
-- **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, _Enabling Balanced Data Deduplication in Mobile Edge Computing_, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), DOI: 10.1109/TPDS.2023.3247061.
+- **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, _Enabling Balanced Data Deduplication in Mobile Edge Computing_, IEEE Transactions on Parallel and Distributed Systems (**TPDS**, CORE A*, CCF A), DOI: 10.1109/TPDS.2023.3247061.
 
 ## 2022
 
-- **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, _Cost-Effective Edge Server Network Design in Mobile Edge Computing Environment_, IEEE Transactions on Sustainable Computing (TSUSC, CCF C), DOI: 10.1109/TSUSC.2022.3178661.
+- **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, and Xiaoyu Xia, _Cost-Effective Edge Server Network Design in Mobile Edge Computing Environment_, IEEE Transactions on Sustainable Computing (**TSUSC**, CCF C), DOI: 10.1109/TSUSC.2022.3178661.
 
-- Hai Jin, **Ruikun Luo**, Qiang He, Song Wu, Zilai Zeng, and Xiaoyu Xia, _Cost-Effective Data Placement in Edge Storage Systems with Erasure Code_, IEEE Transactions on Services Computing (TSC, CORE A*, CCF A), DOI: 10.1109/TSC.2022.3152849.
+- Hai Jin, **Ruikun Luo**, Qiang He, Song Wu, Zilai Zeng, and Xiaoyu Xia, _Cost-Effective Data Placement in Edge Storage Systems with Erasure Code_, IEEE Transactions on Services Computing (**TSC**, CORE A*, CCF A), DOI: 10.1109/TSC.2022.3152849.
 
 ## 2021
 
-- Hai Jin, Cong Liu, Haikun Liu, **Ruikun Luo**, Jiahong Xu, Fubing Mao, and Xiaofei Liao, _ReHy: A ReRAM-based Digital/Analog Hybrid PIM Architecture for Accelerating CNN Training_, IEEE Transactions on Parallel and Distributed Systems (TPDS, CORE A*, CCF A), DOI: 10.1109/TPDS.2021.3138087.
+- Hai Jin, Cong Liu, Haikun Liu, **Ruikun Luo**, Jiahong Xu, Fubing Mao, and Xiaofei Liao, _ReHy: A ReRAM-based Digital/Analog Hybrid PIM Architecture for Accelerating CNN Training_, IEEE Transactions on Parallel and Distributed Systems (**TPDS**, CORE A*, CCF A), DOI: 10.1109/TPDS.2021.3138087.
 
-- **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, Zilai Zeng, and Xiaoyu Xia, _Graph-based Data Deduplication in Mobile Edge Computing Environment_, 19th International Conference on Service-Oriented Computing (ICSOC2021, CORE A, CCF B), Dubai, UAE, 2021. 
+- **Ruikun Luo**, Hai Jin, Qiang He, Song Wu, Zilai Zeng, and Xiaoyu Xia, _Graph-based Data Deduplication in Mobile Edge Computing Environment_, 19th International Conference on Service-Oriented Computing (**ICSOC2021**, CORE A, CCF B), Dubai, UAE, 2021. 
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -120,6 +120,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 -->
+
 
 
 
