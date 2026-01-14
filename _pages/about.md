@@ -22,6 +22,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 <font color="red">(I am looking for highly motivated undergraduate students with a strong passion for working with me. If interested, please drop me a message by email.)</font>
   
 # News
+- <font color="red">[NEW!]</font> [26-01-14] Three papers has been accepted by WWW'2026! Congrats to Jiadong, Peize, Zixiao and collaborators!
 - <font color="red">[NEW!]</font> [26-01-04] One paper has been accepted by IEEE TMC! Congrats to Peize!
 - <font color="red">[NEW!]</font> [25-11-15] One paper has been accepted by IEEE TPDS! Congrats to Wang!
 - <font color="red">[NEW!]</font> [25-09-27] One paper has been accepted by IEEE TPDS! Congrats to Jiadong!
@@ -46,6 +47,9 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 (Corresponding authors=*)
 
 ## 2026
+- **Ruikun Luo**, Zixiao Feng, Lin Gu and Xiaoyu Xia, IRAG: Robust Multimodal Retrieval-Augmented Generation via Hazard Separation, ACM The Web Conference (**WWW**, CCF A).
+
+- **Ruikun Luo**, Jiadong Zhao, Peize Su, Jieming Yang, Jing Yang, Yuan Gao, Minhui Xue, and Xiaoyu Xia, Octopus: Vehicle-to-Road Collaborative Perception for Autonomous Driving with Closed-Loop Fusion, ACM The Web Conference (**WWW**, CCF A)
 
 - **Ruikun Luo**, Peize Su, Jining Chen, Ningjiang Chen, Qiang He, Feifei Chen, Xia Xie, Yun Yang, _Edge DDoS Attack Mitigation under Uncertainty: A Deep Reinforcement Learning Approach_, IEEE Transactions on Mobile Computing (**TMC**, CCF A).
 
@@ -130,6 +134,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 -->
+
 
 
 
