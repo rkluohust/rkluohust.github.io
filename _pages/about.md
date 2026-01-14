@@ -47,9 +47,11 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 (Corresponding authors=*)
 
 ## 2026
-- **Ruikun Luo**, Zixiao Feng, Lin Gu and Xiaoyu Xia, IRAG: Robust Multimodal Retrieval-Augmented Generation via Hazard Separation, ACM The Web Conference (**WWW**, CCF A).
+- **Ruikun Luo**, Zixiao Feng, Lin Gu and Xiaoyu Xia, _IRAG: Robust Multimodal Retrieval-Augmented Generation via Hazard Separation_, ACM The Web Conference (**WWW**, CCF A).
 
-- **Ruikun Luo**, Jiadong Zhao, Peize Su, Jieming Yang, Jing Yang, Yuan Gao, Minhui Xue, and Xiaoyu Xia, Octopus: Vehicle-to-Road Collaborative Perception for Autonomous Driving with Closed-Loop Fusion, ACM The Web Conference (**WWW**, CCF A)
+- **Ruikun Luo**, Jiadong Zhao, Peize Su, Jieming Yang, Jing Yang, Yuan Gao, Minhui Xue, and Xiaoyu Xia, _Octopus: Vehicle-to-Road Collaborative Perception for Autonomous Driving with Closed-Loop Fusion_, ACM The Web Conference (**WWW**, CCF A).
+
+-  Mengsha Kou, Xiaoyu Xia, Ziqi Wang, Ibrahim Khalil, **Ruikun Luo**, Jingwen Zhou and Minhui Xue, _WinFLoRA: Incentivizing Client-Adaptive Aggregation in Federated LoRA under Privacy Heterogeneity_, ACM The Web Conference (**WWW**, CCF A).
 
 - **Ruikun Luo**, Peize Su, Jining Chen, Ningjiang Chen, Qiang He, Feifei Chen, Xia Xie, Yun Yang, _Edge DDoS Attack Mitigation under Uncertainty: A Deep Reinforcement Learning Approach_, IEEE Transactions on Mobile Computing (**TMC**, CCF A).
 
@@ -134,6 +136,7 @@ I am a postdoc at the College of Computer Science and Technology at Huazhong Uni
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 -->
+
 
 
 
